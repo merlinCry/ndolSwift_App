@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C7C3EE9E1DBB4F2C00E288E0 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = J5SN5HQC33;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J5SN5HQC33;
 				INFOPLIST_FILE = ndolSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ndol.test.ndolSwift;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J5SN5HQC33;
 				INFOPLIST_FILE = ndolSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ndol.test.ndolSwift;
